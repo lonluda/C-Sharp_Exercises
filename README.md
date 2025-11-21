@@ -9,15 +9,15 @@ This plan assumes you already know some basic C# (as shown by your console app w
 
 Goal: understand syntax, variables, input/output, operators.
 
-Day	Topic	Mini-Project
+Day	Topic	Mini-Project  
 1	Install IDE (VS / VS Code), understand project structure	"Hello World" console app  
-2	Variables & data types (int, double, string, bool)	App that prints your name, age, height
-3	User input with Console.ReadLine()	Personalized greeting app
-4	Arithmetic operators	Simple calculator for two numbers (+ - * /)
-5	Conditionals (if/else)	Check if a number is positive, negative, or zero
-6	Logical operators (&&, `	
-7	Week recap	"Guess the number" game (1–10)
-📅 Week 2 — Loops, Arrays, Lists
+2	Variables & data types (int, double, string, bool)	App that prints your name, age, height  
+3	User input with Console.ReadLine()	Personalized greeting app  
+4	Arithmetic operators	Simple calculator for two numbers (+ - * /)  
+5	Conditionals (if/else)	Check if a number is positive, negative, or zero  
+6	Logical operators (&&, `	  
+7	Week recap	"Guess the number" game (1–10)  
+📅 Week 2 — Loops, Arrays, Lists  
 
 Goal: learn repetition and data collections.
 
