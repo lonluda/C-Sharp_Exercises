@@ -17,6 +17,7 @@ Day	Topic	Mini-Project
 5	Conditionals (if/else)	Check if a number is positive, negative, or zero  
 6	Logical operators (&&, `	  
 7	Week recap	"Guess the number" game (1–10)  
+
 📅 Week 2 — Loops, Arrays, Lists  
 
 Goal: learn repetition and data collections.
@@ -29,6 +30,7 @@ Day	Topic	Mini-Project
 12	Loop + input	Find the maximum of numbers entered until user types "0"
 13	Nested loops	Print multiplication tables 1–5
 14	Week recap	Small menu: 1) Sum numbers, 2) Find max, 3) Exit
+
 📅 Week 3 — Functions, Classes, Error Handling
 
 Goal: write reusable code, understand objects, handle invalid input.
@@ -41,6 +43,7 @@ Day	Topic	Mini-Project
 19	Constructors & properties	Class Rectangle with Width, Height, Area()
 20	Error handling (try/catch, TryParse)	Improved calculator that cannot crash
 21	Week recap	"Guess the number" rebuilt using classes and functions
+
 📅 Week 4 — Realistic, Combined Console Projects
 
 Goal: create more complex apps using everything learned.
