@@ -9,20 +9,18 @@ This plan assumes you already know some basic C# (as shown by your console app w
 
 Goal: understand syntax, variables, input/output, operators.
 
-Day	Topic	Mini-Project  
 1	Install IDE (VS / VS Code), understand project structure	"Hello World" console app  
 2	Variables & data types (int, double, string, bool)	App that prints your name, age, height  
 3	User input with Console.ReadLine()	Personalized greeting app  
 4	Arithmetic operators	Simple calculator for two numbers (+ - * /)  
 5	Conditionals (if/else)	Check if a number is positive, negative, or zero  
-6	Logical operators (&&, `	  
+6	Logical operators (&&, ||, !)
 7	Week recap	"Guess the number" game (1–10)  
 
 📅 Week 2 — Loops, Arrays, Lists  
 
 Goal: learn repetition and data collections.
 
-Day	Topic	Mini-Project  
 8	while loops	Print numbers 1 to 10  
 9	for loops	Print the first 10 even numbers  
 10	Arrays	Ask for 5 numbers, store them, compute sum  
@@ -35,7 +33,6 @@ Day	Topic	Mini-Project
 
 Goal: write reusable code, understand objects, handle invalid input.
 
-Day	Topic	Mini-Project  
 15	Functions / methods	Function that sums two numbers  
 16	Functions with return values	Function that computes rectangle area  
 17	Functions + input	Ask user for numbers, call functions  
@@ -48,7 +45,6 @@ Day	Topic	Mini-Project
 
 Goal: create more complex apps using everything learned.
 
-Day	Topic	Mini-Project  
 22	Lists + functions	Simple To-Do List (add/remove tasks)  
 23	Classes + objects	Contact Manager (Contact with name, phone, email)  
 24	Full menu + operations	Calculator with options: +, −, ×, ÷  
