@@ -10,7 +10,7 @@ This plan assumes you already know some basic C# (as shown by your console app w
 Goal: understand syntax, variables, input/output, operators.
 
 Day	Topic	Mini-Project
-1	Install IDE (VS / VS Code), understand project structure	"Hello World" console app
+1	Install IDE (VS / VS Code), understand project structure	"Hello World" console app <br>
 2	Variables & data types (int, double, string, bool)	App that prints your name, age, height
 3	User input with Console.ReadLine()	Personalized greeting app
 4	Arithmetic operators	Simple calculator for two numbers (+ - * /)
