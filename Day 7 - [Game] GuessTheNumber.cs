@@ -46,19 +46,19 @@ class GuessTheNumber
 
         Random rnd = new Random();
 
-        int casualNumber = rnd.Next(1, 11);
+        int randomNumber = rnd.Next(1, 11);
 
-        if (luckyNumber == casualNumber)
+        if (luckyNumber == randomNumber)
         {
             Console.Clear();
-            Console.WriteLine("The lucky number was " + casualNumber + "\n");
-            Console.WriteLine("You Win !!! ");
+            Console.WriteLine($"The lucky number was {randomNumber} \n");
+            Console.WriteLine("You Win !!!");
         }
         else
         {
             Console.Clear();
-            Console.WriteLine("The lucky number was " + casualNumber + "\n");
-            Console.WriteLine("I'm sorry, you lose");
+            Console.WriteLine($"The lucky number was {randomNumber} \n");
+            Console.WriteLine("I'm sorry, you lose.");
         }
     }
 }
