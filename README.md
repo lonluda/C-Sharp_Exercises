@@ -14,7 +14,7 @@ Goal: understand syntax, variables, input/output, operators.
 3	User input with Console.ReadLine()	Personalized greeting app  
 4	Arithmetic operators	Simple calculator for two numbers (+ - * /)  
 5	Conditionals (if/else)	Check if a number is positive, negative, or zero  
-6	Logical operators (&&, ||, !)
+6	Logical operators (&&, ||, !)  
 7	Week recap	"Guess the number" game (1–10)  
 
 📅 Week 2 — Loops, Arrays, Lists  
