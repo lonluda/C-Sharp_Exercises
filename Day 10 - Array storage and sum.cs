@@ -28,3 +28,4 @@ class ArrayLoader
         Console.WriteLine($"\nLa loro somma è {sum}");
     }
 }
+
