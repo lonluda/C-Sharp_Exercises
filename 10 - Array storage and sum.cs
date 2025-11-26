@@ -6,6 +6,7 @@ class ArrayLoader
     {
 
         int[] values = new int[5];
+        int sum = 0;
 
         string[] ordine = { "primo", "secondo", "terzo", "quarto", "quinto" };
 
@@ -15,13 +16,15 @@ class ArrayLoader
 
             string user_value = Console.ReadLine();
             int.TryParse(user_value, out values[i]);
+
+            sum += values[i];
         }
 
         for(int i=0; i < values.Length; i++)
         {
-            Console.Write("Il " + ordine[i] + " numero è : ");
-            Console.WriteLine(values[i]);
+            Console.WriteLine($"Il {ordine[i]} numero è : {values[i]}");
         }
 
+        Console.WriteLine($"\nLa loro somma è {sum}");
     }
 }
