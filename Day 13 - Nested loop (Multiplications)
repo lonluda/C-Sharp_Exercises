@@ -1,0 +1,21 @@
+using System;
+
+namespace Multiplications;
+
+class App
+{
+    static void Main(string[] args)
+    {
+        for (int moltiplicando = 1; moltiplicando <= 5; moltiplicando++)
+        {
+            Console.WriteLine($"\nTabellina del {moltiplicando}");
+
+            for (int moltiplicatore = 1; moltiplicatore <= 5; moltiplicatore ++)
+            {
+                int result = moltiplicando * moltiplicatore;
+
+                Console.WriteLine($"{moltiplicando} x {moltiplicatore} = {result}");
+            }
+        }
+    }
+}
