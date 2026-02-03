@@ -34,8 +34,8 @@ Goal: learn repetition and data collections.
 Goal: write reusable code, understand objects, handle invalid input.
 
 15	Functions / methods	Function that sums two numbers  
-16	App for calculate mathematical operations from CLI 
-17	Functions + input	Ask user for numbers, call functions 
+16	App for calculate mathematical operations from CLI  
+17	Functions + input	Ask user for numbers, call functions  
 18	Intro to classes	Class Person with Name, Age, Greet()  
 19	Constructors & properties	Class Rectangle with Width, Height, Area()  
 20	Error handling (try/catch, TryParse)	Improved calculator that cannot crash  
